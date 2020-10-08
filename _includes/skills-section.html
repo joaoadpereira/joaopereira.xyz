@@ -1,0 +1,28 @@
+{% if site.data.settings.skills %}
+<!-- skills -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">{{ site.data.settings.skills-title }}</h2>
+      </div>
+      {% for skill in site.data.settings.skills %}
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+
+        <div class="text-center skills-card">
+          <div class="position-relative progress-wrapper" data-color="{{ skill.color }}">
+          <img width="140px" src="{{ site.baseurl }}/assets/images/skills/{{ skill.icon }}" alt="{{ site.data.settings.skills-title }} icon">
+          <!-- <div class="wave" data-progress="{{ skill.value }}"></div>-->
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">{{ skill.name  }}</h4> 
+            <h7 class="text-light">{{skill.describe}}</h7>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /skills -->
+{% endif %}
