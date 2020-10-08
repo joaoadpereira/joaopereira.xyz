@@ -5,13 +5,6 @@ image:  /assets/images/blog/barraca_0.png
 author: João
 resume: Academic project
 ---
-<!--
-<style>
-    .img-container {
-    text-align: center;
-      }
-</style>
--->
 
 This project was completed in the course Technology Of Joining Processes at Univesity of Aveiro. It consisted of design and manufacture a stand for students festival.
 

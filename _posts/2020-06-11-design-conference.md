@@ -6,8 +6,6 @@ author: João
 resume: Paper Conference
 ---
 
-#### Abstract: 
-
 Engineering work is mostly done in 3D CAD software throughout the engineering process from conceptual design and layout of products. Physics-Based Virtual Prototypes are very valuable addition on Computer Aided Engineering enabling product development simulators, training simulators and digital twin concept in product lift-cycle process. In this work, we present a framework, how such virtual prototypes can be developed from 3D CAD models with meaningful effort.
 
 DOI: [https://doi.org/10.1017/dsd.2020.47](https://doi.org/10.1017/dsd.2020.47)

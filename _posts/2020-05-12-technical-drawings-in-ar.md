@@ -6,10 +6,6 @@ author: João
 resume: Hololens app
 ---
 
-<!--![Tentativa](/assets/images/about/author.jpg)-->
-
-
-
 This HoloLens app enables the user to visualize and interact with virtual CAD models of the technical drawings. 
 
 The rigorous design communication between departments and costumers most of the times requires technical drawings. These huge pieces of paper, full of detailed and complex information, can difficult the design comprehension of personal with less technical background knowledge.   
