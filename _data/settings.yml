@@ -4,7 +4,7 @@
 title: João Pereira
 logo: 
 author: João
-description: my website_João
+description: Website João Pereira
 email: joaoadelino.pereira@gmail.com
 # phone: +880 2544 658 256
 address: Tampere, Finland 
@@ -26,7 +26,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics:  UA-180034556-1
+google-analytics:  UA-180205772-1
 
 
 #-------------------------------
@@ -41,8 +41,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: | 
     
-    Welcome 
-    to my website.
+    Creating XR solutions
+    for the industry
 
 
 #social:
@@ -56,7 +56,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: I'm a Mechanical Engineering that also develops and research about XR content for different industrial domains.
+blurb: I'm a Mechanical Engineering that also develops and research about AR/MR/VR experiences for different industrial domains. 
 
 
 

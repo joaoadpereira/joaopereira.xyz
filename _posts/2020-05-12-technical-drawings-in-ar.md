@@ -28,7 +28,7 @@ These 2 drawings are working as image targets (with Vuforia engine). When they a
 
 The technical drawings used: 
 
-<p>  class="img-container"
+<p  class="img-container">
 <img src="/assets/images/blog/targets_ar.png" alt="Targets images (technical drawings)" title="technical drawings" height="400">
 <p>
 
