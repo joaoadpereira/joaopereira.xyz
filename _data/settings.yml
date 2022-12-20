@@ -56,8 +56,8 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: I'm a Mechanical Engineering that also develops and research about AR/MR/VR experiences for different industrial domains. 
-
+#blurb: I'm a Mechanical Engineering that also develops and research about AR/MR/VR experiences for different industrial domains. 
+blurb: I'm a XR developer with years of experience with Unity 3D.
 
 
 blurb-btn-link: '/about'
@@ -115,10 +115,11 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Professional experience
 experience:
-- {name: Tecnhology Engineer, icon: 'stereoscape.png', date: 'Jul 2020 - Sep 2020', organization: 'Stereoscape'}
-- {name: Assistant / Project Researcher, icon: 'tau_logo.png', date: 'Jan 2019 - Present', organization: 'Tampere University'}
+- {name: Tecnhology Engineer, icon: 'stereoscape2.png', date: 'Jul 2020 - Sep 2020', organization: 'Stereoscape', website: "https://stereoscape.com/"}
+- {name: Researcher, icon: 'tau_logo2.png', date: 'Jan 2019 - Dez 2020', organization: 'Automation Technology and Mechanical Engineering', website: "https://www.tuni.fi/en/about-us/automation-technology-and-mechanical-engineering"}
+- {name: Interaction Designer, icon: 'muova2.png', date: 'Jan 2021 - Present', organization: 'Muova Design Center', website: "https://www.muova.fi/"}
 #- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
