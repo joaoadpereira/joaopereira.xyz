@@ -57,11 +57,11 @@ hero:
 
 # About Section
 #blurb: I'm a Mechanical Engineering that also develops and research about AR/MR/VR experiences for different industrial domains. 
-blurb: I'm a XR developer with years of experience with Unity 3D.
+blurb: I'm a XR developer with several years of experience with Unity 3D.
 
 
-blurb-btn-link: '/about'
-blurb-btn-name: know more 
+#blurb-btn-link: '/about'
+#blurb-btn-name: know more 
 
 
 # About Page
@@ -104,6 +104,7 @@ skills:
 - {name: Unity, describe: AR/VR development, icon: "unity.png", color: '#ffffff',}
 - {name: Mixed Reality Toolkit, describe: MR development ,  icon: "mrtk.png"}
 - {name: Vuforia, describe: AR development, icon: "vuforia.png"}
+- {name: Blender, describe: '3D modelling', icon: "blender.png"}
 - {name: Solidworks, describe: CAD designer,  icon: "solidworks.png"}
 - {name: Siemens NX, describe: CAD designer, icon: "siemens_nx.png"}
 - {name: Ansys Discovery, describe: "Product Simulation", icon: "ansys.png"}
