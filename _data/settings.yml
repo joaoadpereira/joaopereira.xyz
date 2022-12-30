@@ -102,7 +102,8 @@ team:
 skills-title: Skills
 skills:
 - {name: Unity, describe: AR/VR development, icon: "unity.png", color: '#ffffff',}
-- {name: Mixed Reality Toolkit, describe: MR development ,  icon: "mrtk.png"}
+- {name: C#, describe: Object-Oriented Programming, icon: "csharp.png"}
+- {name: Mixed Reality Toolkit, describe: HoloLens / MR development ,  icon: "mrtk2.png"}
 - {name: Vuforia, describe: AR development, icon: "vuforia.png"}
 - {name: Blender, describe: '3D modelling', icon: "blender.png"}
 - {name: Solidworks, describe: CAD designer,  icon: "solidworks.png"}
