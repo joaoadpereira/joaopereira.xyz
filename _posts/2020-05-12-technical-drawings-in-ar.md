@@ -20,7 +20,7 @@ The models were built in with [SpaceClaim](http://www.spaceclaim.com/en/default.
 Watch the video demo about this app:
 
 <p  class="img-container" align="center">
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/NJM80PS2epg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="100%" src="https://www.youtube.com/embed/NJM80PS2epg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 
 These 2 drawings are working as image targets (with Vuforia engine). When they are recognized, the Hololens disposes of the holograms od the respective drawings. At the same time, it enables buttons (MRTK), where the user can touch to manipulate the holograms. Other infocards and videos are also digitally availably. 
@@ -29,7 +29,7 @@ These 2 drawings are working as image targets (with Vuforia engine). When they a
 The technical drawings used: 
 
 <p  class="img-container">
-<img src="/assets/images/blog/targets_ar.png" alt="Targets images (technical drawings)" title="technical drawings" height="400">
+<img width="100%" src="/assets/images/blog/targets_ar.png" alt="Targets images (technical drawings)" title="technical drawings" >
 <p>
 
 

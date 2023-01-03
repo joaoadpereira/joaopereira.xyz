@@ -21,7 +21,7 @@ Together with the Harvester CAD model, a virtual forest was designed to provide 
 
 Whatch the video demo about the simulator: 
 <p  class="img-container" align="center">
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/X0Z1mlTdyoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/X0Z1mlTdyoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 
 <!--Know more about my master thesis work <a href="{{ //2019-06-25-master-thesis }}" >here</a>. 

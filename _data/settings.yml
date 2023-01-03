@@ -117,7 +117,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Professional experience
+experience-title: Professional Experience
 experience:
 - {name: Interaction Designer, icon: 'muova2.png', date: 'Jan 2021 - Present', organization: 'Muova Design Center', website: "https://www.muova.fi/"}
 - {name: Tecnhology Engineer, icon: 'stereoscape2.png', date: 'Jul 2020 - Sep 2020', organization: 'Stereoscape', website: "https://stereoscape.com/"}

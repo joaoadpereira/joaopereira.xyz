@@ -20,7 +20,7 @@ In phase one of the assignment, a design for assembly (DFA) analysis of the prod
 The next image shows the ABB OT160 model that our team worked with. 
 
 <div class="img-container">
-    <img src="/assets/images/blog/abb/abb_1.png" alt="ABB OT160" title="ABB OT160" height="175">
+    <img width="50%" src="/assets/images/blog/abb/abb_1.png" alt="ABB OT160" title="ABB OT160">
 </div>
 
 Our work began with analyzing the product ABB OT160 and focusing on the functions of the product parts. With DFA analysis we found that some of the parts were unnecessary to be separated so we were able to reduce the number of parts for the product. This was the first step in making a more straightforward assembly tasks. Some of the improvements didn’t reduce parts but nevertheless improved assemblability. Comparing the old and new
@@ -29,7 +29,7 @@ design made an impact on the needed workforce to assembly the product by reducin
 The following images show one example of the analyses and changes that we performed: the original top lid is screwed to the bottom part. We changed the design of the parts where the top lid is fixed through snap fits. This solution allows to decrease the number of parts in the model and processes of assembly, which leads to a smaller work cycle in this specific work cell. 
 
 <div class="img-container">
-    <img src="/assets/images/blog/abb/abb_2_snap.png" alt="Snap fit" title="Snap fit" height="250">
+    <img width="100%" src="/assets/images/blog/abb/abb_2_snap.png" alt="Snap fit" title="Snap fit">
 </div>
 
 
@@ -40,8 +40,8 @@ The following 2 images show the 2D layout (left image) and the 3D view (right im
 
 
 <div class="img-container">
-    <img src="/assets/images/blog/abb/abb_3_layout_floor.png" alt="2D layout" title="2D layout" height="350">
-    <img src="/assets/images/blog/abb/abb_3_layout_3d.png" alt="3D layout" title="3D layout" height="275">
+    <img width="100%" src="/assets/images/blog/abb/abb_3_layout_floor.png" alt="2D layout" title="2D layout">
+    <img width="100%" src="/assets/images/blog/abb/abb_3_layout_3d.png" alt="3D layout" title="3D layout">
 </div>
 
 In each work cell created, an assembly process was idealized to be used with usual industrial tools such as robots, actuators, bowlers, conveyors. At the same time, we designed specific parts and grippers to make the assembly process possible. 
@@ -49,7 +49,7 @@ In each work cell created, an assembly process was idealized to be used with usu
 As an example of this, the following image shows how the spark killers parts are assembled in the bottom part of the model. It is necessary a bowl to feed the parts to be positioned in a specific position with linear actuators. After that, the robot with a design gripper ties the sparking killers and assembles them in the model. 
 
 <div class="img-container">
-    <img src="/assets/images/blog/abb/abb_5_gripper.png" alt="work cell" title="work cell" height="250">
+    <img width="100%" src="/assets/images/blog/abb/abb_5_gripper.png" alt="work cell" title="work cell">
 </div>
 
 
@@ -57,7 +57,7 @@ The new automated line had a payback time of three years and we conclude that th
 
 You can read our detailed report here: 
 
-<embed class="img-container" src="/assets/images/blog/report_abb.pdf" type="application/pdf" width="100%" height="850px" />
+<embed class="img-container" width="100%" src="/assets/images/blog/report_abb.pdf" type="application/pdf" width="100%" height="850px" />
 
 
 

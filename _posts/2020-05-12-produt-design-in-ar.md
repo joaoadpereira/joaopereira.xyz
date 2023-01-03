@@ -21,7 +21,7 @@ The user interface was set up with [Unity](https://unity.com/), [Mixed Reality T
 Watch a video demo of the experience:
 
 <p  class="img-container" align="center">
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/YlznWJ-maCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/YlznWJ-maCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 <!--<p align="center">
 <img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design1_CAD.PNG" alt="Design 1" title="Design 1" height="150"></a> 
@@ -32,7 +32,7 @@ Watch a video demo of the experience:
 The snowploughs were designed in CAD software. Here are the different design solutions:  
 
 <p class="img-container" align="center">
-<img src="/assets/images/blog/snowpiles.png" alt="snowploughs" title="snowploughs" height="200">
+<img width="100%" src="/assets/images/blog/snowpiles.png" alt="snowploughs" title="snowploughs">
 <p>
 
 

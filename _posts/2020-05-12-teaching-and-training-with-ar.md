@@ -22,7 +22,7 @@ This Microsoft HoloLens app helps the user to disassemble the product and achiev
 Watch the video demo about the application recorded in first person experience: 
 
 <p  class="img-container" align="center">
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/Fo-iKZj7R5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="100%" src="https://www.youtube.com/embed/Fo-iKZj7R5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 
 
@@ -36,5 +36,5 @@ The next image shows the project configurations on Unity:
 
 
 <p  class="img-container" align="center">
-<img src="/assets/images/blog/train_2.png" alt="Train_Unity" title="Train_unity" height="400">
+<img width="100%" src="/assets/images/blog/train_2.png" alt="Train_Unity" title="Train_unity">
 <p>

@@ -39,7 +39,7 @@ Check the results of the project in this video:
 
 
 <p  class="img-container" align="center">
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/UnIzklv86Jo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/UnIzklv86Jo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 
 
@@ -49,7 +49,7 @@ The CAD model disposed on Spaceclaim can be seen in the next image:
 
 
 <p  class="img-container" align="center">
-<img src="/assets/images/blog/harvester_CAD.png" alt="Harvester CAD" title="tHarvester CAD" height="400">
+<img width="100%" src="/assets/images/blog/harvester_CAD.png" alt="Harvester CAD" title="tHarvester CAD">
 <p>
 
 
@@ -60,7 +60,7 @@ The Unity scene was then built for the Android platform, generating an apk. file
 
 
 <p  class="img-container" align="center">
-<img src="/assets/images/blog/harvester_project_ar.png" height="450"> 
+<img width="100%" src="/assets/images/blog/harvester_project_ar.png"> 
 </p>
 
 
