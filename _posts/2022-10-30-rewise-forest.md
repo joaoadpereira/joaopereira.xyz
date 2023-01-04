@@ -31,7 +31,7 @@ This work was presented at [Subcontracting Trade Fair](https://www.alihankinta.f
 
 
 
-The demo served as an important facilitator to ignite discussions about smart solutions for the forest value and how XR technologies can have an important role to visualize simulations of future scenarios at large scale. 
+The demo served as an important facilitator to ignite discussions about smart solutions for the forest value chain and how XR technologies can have an important role to visualize simulations of future scenarios at large scale. 
 
 
 <p class="img-container" align="center">
