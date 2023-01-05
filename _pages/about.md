@@ -11,6 +11,11 @@ image: assets/images/about/joao2.jpg
 
 I have been developing and researching XR applications to improve industrial processes in different domains: product design, simulation, training, manufacturing, marketing & sales and maintenance.  
 
-My background in Mechanical Engineering completes a deep knowledge in industrial digitalization focused on XR applications. 
 
-I am also passionate about football, bikepacking, hiking and (recently) padel. 
+To complement my skills, I've been participating in different courses related to Computer Science, Unity, C# programming, git, Blender and gamification.  
+
+
+My background in Mechanical Engineering completes a deep knowledge of industrial digitalization with a focus on XR applications. 
+
+
+I am also passionate about football, bikepacking, hiking and padel. I'm also aboard member of Vierasjoukkue Club (Tampere), an international football team with players from over 15 different nations. 
