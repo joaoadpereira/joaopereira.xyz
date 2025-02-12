@@ -9,7 +9,7 @@ Hello! Moi! Hola! Olá!
 
 <!--I found out that Coronavirus became a common topic to break the ice before someone presents himself. Well, during these physical distance times, the use of AR & VR technologies also turned even more important digital solutions for business and people communicate remotely in an efficient way. Precisely, that's what I have been working on!--> 
 
-I have been developing and researching XR applications to improve industrial processes in different domains: product design, simulation, training, manufacturing, marketing & sales and maintenance.  
+I have been working on XR experiences to improve industrial processes in different domains: product design, simulation, training, manufacturing, marketing & sales and maintenance.  
 
 
 To complement my skills, I've been participating in different courses related to Computer Science, Unity, C# programming, git, Blender and gamification.  
