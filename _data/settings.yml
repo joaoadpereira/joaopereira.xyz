@@ -121,9 +121,10 @@ skills:
 
 experience-title: Professional Experience
 experience:
-- {name: Interaction Designer, icon: 'muova2.png', date: 'Jan 2021 - Present', organization: 'Muova Design Center', website: "https://www.muova.fi/"}
-- {name: Tecnhology Engineer, icon: 'stereoscape2.png', date: 'Jul 2020 - Sep 2020', organization: 'Stereoscape', website: "https://stereoscape.com/"}
-- {name: Researcher, icon: 'tau_logo2.png', date: 'Jan 2019 - Dez 2020', organization: 'Automation Technology and Mechanical Engineering', website: "https://www.tuni.fi/en/about-us/automation-technology-and-mechanical-engineering"}
+- {name: Unity Developer, icon: 'glartek3.png', date: 'Sep 2023 - Fev 2025', organization: 'Glartek', website: "https://glartek.com/"}
+- {name: Interaction Designer, icon: 'muova3.png', date: 'Jan 2021 - Aug 2023', organization: 'Muova Design Center', website: "https://www.muova.fi/"}
+- {name: Tecnhology Engineer, icon: 'stereoscape3.png', date: 'Jul 2020 - Sep 2020', organization: 'Stereoscape', website: "https://stereoscape.com/"}
+- {name: Researcher, icon: 'tau3.png', date: 'Jan 2019 - Dez 2020', organization: 'Automation Technology and Mechanical Engineering', website: "https://www.tuni.fi/en/about-us/automation-technology-and-mechanical-engineering"}
 #- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
