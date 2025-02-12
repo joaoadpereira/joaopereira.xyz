@@ -102,6 +102,7 @@ team:
 
 skills-title: Skills
 skills:
+- {name: Flutter, describe: Mobile app development, icon: "flutter.png", color: '#ffffff',}
 - {name: Unity, describe: AR/VR development, icon: "unity.png", color: '#ffffff',}
 - {name: C#, describe: Object-Oriented Programming, icon: "csharp.png"}
 - {name: Mixed Reality Toolkit, describe: HoloLens / MR development ,  icon: "mrtk2.png"}
