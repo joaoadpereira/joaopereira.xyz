@@ -10,6 +10,9 @@
   <meta name="author" content="{{ . }}">
   {% endif %}
   
+
+  <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
+
   <!-- ** Plugins Needed for the Project ** -->
   {% for css in site.data.plugins.css %}
   <link rel="stylesheet" href="{{ css | relative_url }}">
@@ -17,6 +20,8 @@
 
   <!-- Main Stylesheet -->
   <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">
+
+  
 
   <!--Favicon-->
   <!--

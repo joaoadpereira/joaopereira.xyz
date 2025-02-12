@@ -7,7 +7,7 @@ author: João
 description: Website João Pereira
 email: joaoadelino.pereira@gmail.com
 # phone: +880 2544 658 256
-address: Tampere, Finland 
+address: Portugal
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -41,7 +41,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: | 
     
-    Creating XR solutions
+    Creating XR experiences
     for the industry
 
 
