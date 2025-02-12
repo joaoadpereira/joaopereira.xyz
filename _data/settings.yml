@@ -57,7 +57,8 @@ hero:
 
 # About Section
 #blurb: I'm a Mechanical Engineering that also develops and research about AR/MR/VR experiences for different industrial domains. 
-blurb: I'm a XR developer with several years of experience with Unity 3D.
+#blurb: I'm a XR developer with several years of experience with Unity 3D.
+blurb: Experienced in the development of Augmented Reality (AR) and Virtual Reality (VR) experiences for mobile devices, HoloLens, and Oculus VR platforms.
 
 
 #blurb-btn-link: '/about'
