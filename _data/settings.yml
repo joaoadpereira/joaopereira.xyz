@@ -15,6 +15,7 @@ menu:
 - {name: Portfolio, link: '/portfolio'}
 # - {name: Publications, link: '/publications'}
 # - {name: Projects, link: '/projects'}
+- {name: CV, link: '/cv'}
 - {name: Contact, link: '/contact'}
 
 

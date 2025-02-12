@@ -17,5 +17,7 @@ To complement my skills, I've been participating in different courses related to
 
 My background in Mechanical Engineering completes a deep knowledge of industrial digitalization with a focus on XR applications. 
 
+Let's get in touch!
+
 
 <!--I am also passionate about football, bikepacking, hiking and padel. I'm also aboard member of Vierasjoukkue Club (Tampere), an international football team with players from over 15 different nations. -->
